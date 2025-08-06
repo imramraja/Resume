@@ -1,4 +1,3 @@
-````markdown name=README.md
 # 👋 Hi, I'm Ramraja Yadav
 
 **Data Analyst | SQL • Python • Power BI • Excel**  
@@ -74,6 +73,3 @@ Hemvati Nandan Bahuguna Garhwal University *(2020 – 2024)*
 - [Email](mailto:yadavramraja@outlook.com)
 
 ---
-
-> **“Data is the new oil, but insight is the engine.”**
-````
